@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a Student in my final year of Cyber Security. 
-## Looking to build a repository of all my university/leisure projects.
+Looking to build a repository of all my university/leisure projects.
 
 - 🔭 I’m currently working on ... React.js
 - 🌱 I’m currently learning ... Networking
